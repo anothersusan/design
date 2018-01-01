@@ -1,7 +1,7 @@
 # Design
 
 ## Week 1 (Jan 2-5)
-[Intro](https://drive.google.com/open?id=1Z67BeBCv86EwYmqFfE-uuQo5Ubx5HQAR) Keynote Presentation
+* [Intro](https://drive.google.com/open?id=1Z67BeBCv86EwYmqFfE-uuQo5Ubx5HQAR) Keynote Presentation
 
 #### Watch/Read before Monday, Jan 8th Class
 * Jon Kolko, [“Design Thinking Comes of Age,”](https://hbr.org/2015/09/design-thinking-comes-of-age) Harvard Business Review, September 2015 /[article]
