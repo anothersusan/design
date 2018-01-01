@@ -1,5 +1,7 @@
 # Design
 
+Suggestion: Right-click the links to open in a new tab so that you can jump back to this list easily. 
+
 ## Week 1 (Jan 2-5)
 * [Intro](https://drive.google.com/open?id=1Z67BeBCv86EwYmqFfE-uuQo5Ubx5HQAR) Keynote Presentation
 
