@@ -1,6 +1,6 @@
 # Design
 
-## Week 1
+## Week 1 (Jan 2-5)
 [Intro Keynote Presentation](https://drive.google.com/open?id=1Z67BeBCv86EwYmqFfE-uuQo5Ubx5HQAR) 
 
 #### Watch/Read before Monday, Jan 8th Class
@@ -12,7 +12,7 @@
 
 
 
-## Week 2
+## Week 2 (Jan 8-12)
 * [What is Design Keynote Presentation](https://drive.google.com/file/d/1jrSeZla3K3G_qRt2OeGOui6IDzyJWYb1) 
 * [Personas Keynote Presentation](https://drive.google.com/file/d/1tKPe4KaMJKH4BsM_l3CefSULrNaMXiiR) 
 * [Frame the Problem Keynote Presentation](https://drive.google.com/file/d/1gKd-lL9ftspIgyPNwl2uYuIke5QwA_qC)  
