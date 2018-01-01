@@ -1,7 +1,7 @@
 # Design
 
 ## Week 1 (Jan 2-5)
-[**Intro** Keynote Presentation](https://drive.google.com/open?id=1Z67BeBCv86EwYmqFfE-uuQo5Ubx5HQAR) 
+[Intro](https://drive.google.com/open?id=1Z67BeBCv86EwYmqFfE-uuQo5Ubx5HQAR) Keynote Presentation
 
 #### Watch/Read before Monday, Jan 8th Class
 * Jon Kolko, [“Design Thinking Comes of Age,”](https://hbr.org/2015/09/design-thinking-comes-of-age) Harvard Business Review, September 2015 /[article]
@@ -13,10 +13,10 @@
 
 
 ## Week 2 (Jan 8-12)
-* [What is Design Keynote Presentation](https://drive.google.com/file/d/1jrSeZla3K3G_qRt2OeGOui6IDzyJWYb1) 
-* [Personas Keynote Presentation](https://drive.google.com/file/d/1tKPe4KaMJKH4BsM_l3CefSULrNaMXiiR) 
-* [Frame the Problem Keynote Presentation](https://drive.google.com/file/d/1gKd-lL9ftspIgyPNwl2uYuIke5QwA_qC)  
-* [Portfolios Keynote Presentation](https://drive.google.com/file/d/1DtYNsi2qnpJIbEmasDLDKQfcWjglFsFo/view?usp=sharing)  
+* [What is Design](https://drive.google.com/file/d/1jrSeZla3K3G_qRt2OeGOui6IDzyJWYb1) Keynote Presentation
+* [Personas](https://drive.google.com/file/d/1tKPe4KaMJKH4BsM_l3CefSULrNaMXiiR) Keynote Presentation
+* [Frame the Problem](https://drive.google.com/file/d/1gKd-lL9ftspIgyPNwl2uYuIke5QwA_qC) Keynote Presentation
+* [Portfolios](https://drive.google.com/file/d/1DtYNsi2qnpJIbEmasDLDKQfcWjglFsFo/view?usp=sharing) Keynote Presentation  
 
 
 
